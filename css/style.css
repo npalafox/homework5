@@ -159,13 +159,14 @@ header{
   border-bottom: 3px solid #50C7C7;
   /*Your  code here again.*/
   display: flex;
-  justify-content:center;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .nav_links{
   display: flex;
-  justify-content:center;
+  justify-content: center;
   flex-direction: column;
 }
 
