@@ -225,10 +225,10 @@ header{
     flex-direction:row;
   }
   .gallery{
-    visibility: hidden;
+    display: none;
   }
   #gallery{
-    visibility: hidden;
+    display: none;
   }
 }
 
