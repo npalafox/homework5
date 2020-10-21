@@ -94,8 +94,6 @@ footer{
   /*Your code here.*/
   /*Take a look at flex-basis*/
   flex-basis: 400px;
-  width: 400px;
-
 }
 
 .card > header{
